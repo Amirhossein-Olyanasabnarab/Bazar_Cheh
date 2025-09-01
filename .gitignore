@@ -1,0 +1,46 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory (for testing tools like istanbul/nyc)
+coverage/
+
+# Build / Dist files
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: lock files (if you don’t want to commit them)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Temporary files
+tmp/
+temp/

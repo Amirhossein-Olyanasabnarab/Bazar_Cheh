@@ -1,0 +1,35 @@
+{
+  "name": "bazar_cheh",
+  "version": "1.0.0",
+  "description": "This is an application for buying and selling anything.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amirhossein-Olyanasabnarab/Bazar_Cheh.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "MongoDB",
+    "Mongoose",
+    "etc."
+  ],
+  "author": "Amir Hossein Olyanasab Narab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amirhossein-Olyanasabnarab/Bazar_Cheh/issues"
+  },
+  "homepage": "https://github.com/Amirhossein-Olyanasabnarab/Bazar_Cheh#readme",
+  "dependencies": {
+    "dotenv": "^14.3.2",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
